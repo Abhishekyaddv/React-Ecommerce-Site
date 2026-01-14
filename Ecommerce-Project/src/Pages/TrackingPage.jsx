@@ -1,10 +1,11 @@
-import React from 'react'
+
 import './TrackingPage.css'
 
 export function TrackingPage () {
   return (
     <>
     <title>Track Orders</title>
+    
           <div className="header">
       <div className="left-section">
         <a href="/" className="header-link">
